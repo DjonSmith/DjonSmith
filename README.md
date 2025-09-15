@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DjonSmith/DjonSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **DjonSmith**, a systems and DevOps enthusiast building projects around automation and infrastructure.  
+This GitHub is where I experiment, learn, and share code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Interests
+- Linux & System Administration  
+- Virtualization (KVM/QEMU, cloud-init)  
+- Infrastructure as Code (Terraform, Ansible)  
+- CI/CD & Automation Pipelines  
+- Containers & Orchestration (Docker, Kubernetes)  
+- Monitoring & Observability  
+
+---
+
+## 📂 Featured Projects
+- **[IT-Wiki](https://github.com/DjonSmith/IT-Wiki)** – IT-related notes and knowledge base.  
+- **[Cloud-init-setup](https://github.com/DjonSmith/cloud-init-setup)** – Easier way to create VMs with cloud-init.  
+- **[Blueprint-Book](https://github.com/DjonSmith/Blueprint-Book)** – Shell scripts and automation templates.  
+- **[In-case-of-emergency](https://github.com/DjonSmith/in-case-of-emergency)** – GPG + Bitwarden backup workflow.
+
+---
