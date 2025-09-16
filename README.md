@@ -19,6 +19,6 @@ This GitHub is where I experiment, learn, and share code.
 - **[IT-Wiki](https://github.com/DjonSmith/IT-Wiki)** – IT-related notes and knowledge base.  
 - **[Cloud-init-setup](https://github.com/DjonSmith/cloud-init-setup)** – Easier way to create VMs with cloud-init.  
 - **[Blueprint-Book](https://github.com/DjonSmith/Blueprint-Book)** – Shell scripts and automation templates.  
+- **[Ansible-template](https://github.com/DjonSmith/Ansible-template)** - Pre-made templates for Ansible automation tool.
 - **[In-case-of-emergency](https://github.com/DjonSmith/in-case-of-emergency)**
-
 ---
